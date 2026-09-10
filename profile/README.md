@@ -2,25 +2,25 @@
 
 # Sanctum
 
-**Private projects. Shared worlds.**
+**A private ecosystem for the worlds we build.**
 
-Sanctum is the private home for our games, services, tools, community projects, and experiments.
-
-Everything here belongs to the same ecosystem — built, maintained, and evolved together.
+Games · Community · Services · Tools
 
 </div>
 
-## What lives here
+Sanctum is our private home for projects that belong together — from games and community experiences to the services, bots, and tools behind them.
 
-- Games and interactive experiences
+## Inside Sanctum
+
+- Interactive worlds and games
 - Community platforms and services
-- Bots, tools, and internal infrastructure
-- Experiments that may become something bigger
+- Bots, tools, and supporting infrastructure
+- Experiments with room to grow
 
-Most repositories are private and intended for the Sanctum ecosystem.
+Each project has its own purpose. Together, they form Sanctum.
 
 <div align="center">
 
-*Welcome to Sanctum.*
+*Built privately. Shared intentionally.*
 
 </div>
