@@ -4,42 +4,48 @@
 
 # ✦ Sanctum ✦
 
-### 🌌 A private ecosystem for the worlds we build
+### 🌌 Ein privates Ökosystem für unsere gemeinsamen Welten
 
-[![Private Ecosystem](https://img.shields.io/badge/🔒_Private-Ecosystem-6c5ce7?style=for-the-badge)](https://github.com/Sanctum-Network)
-[![Games](https://img.shields.io/badge/🎮-Games-ff6b9d?style=for-the-badge)](https://github.com/Sanctum-Network)
-[![Community](https://img.shields.io/badge/💬-Community-00b894?style=for-the-badge)](https://github.com/Sanctum-Network)
+[![Website](https://img.shields.io/badge/🌐_Website-sanctum--community.de-6c5ce7?style=for-the-badge)](https://sanctum-community.de)
+[![Discord](https://img.shields.io/badge/💬_Discord-Beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sanctum)
+[![Spiele](https://img.shields.io/badge/🎮-Spiele-ff6b9d?style=for-the-badge)](https://github.com/Sanctum-Network)
 [![Tools](https://img.shields.io/badge/🛠️-Tools-f9ca24?style=for-the-badge)](https://github.com/Sanctum-Network)
 
 </div>
 
 ---
 
-## 🪐 What is Sanctum?
+## 🪐 Was ist Sanctum?
 
-Sanctum is the private home for the projects that belong together — games, community experiences, services, bots, tools, and the infrastructure that connects them.
+Sanctum ist der private Ort für Projekte, die zusammengehören — Spiele, Community-Erlebnisse, Services, Bots, Tools und die Infrastruktur dahinter.
 
-Not just a collection of repositories. **A shared universe.** ✨
+Nicht einfach nur eine Sammlung von Repositories. **Eine gemeinsame Welt.** ✨
 
-## 🚀 What you’ll find here
+## 🚀 Was dich hier erwartet
 
-| 🎮 Games & Worlds | 💬 Community | 🧩 Services & Tools |
+| 🎮 Spiele & Welten | 💬 Community | 🧩 Services & Tools |
 |:---:|:---:|:---:|
-| Interactive experiences | Platforms & integrations | Bots & internal tooling |
-| Experimental gameplay | Shared systems | Supporting infrastructure |
+| Interaktive Erlebnisse | Plattformen & Integrationen | Bots & interne Werkzeuge |
+| Experimentelles Gameplay | Gemeinsame Systeme | Unterstützende Infrastruktur |
 
-## 🛸 The Sanctum principle
+## 🛸 Die Sanctum-Idee
 
-> Build privately. Experiment freely. Share intentionally.
+> Privat bauen. Frei experimentieren. Bewusst teilen.
 
-Every project has its own identity and purpose. Together, they form the Sanctum ecosystem — built with curiosity, stubbornness, and probably too much coffee. ☕
+Jedes Projekt hat seine eigene Identität und seinen eigenen Zweck. Zusammen bilden sie das Sanctum-Ökosystem — gebaut mit Neugier, etwas Sturheit und vermutlich zu viel Kaffee. ☕
+
+## 🔗 Komm vorbei
+
+- 🌐 [Sanctum-Website](https://sanctum-community.de)
+- 💬 [Sanctum auf Discord](https://discord.gg/sanctum)
+- 🏠 [Alle Sanctum-Repositories](https://github.com/Sanctum-Network)
 
 <div align="center">
 
-### 🌠 Welcome to Sanctum
+### 🌠 Willkommen in Sanctum
 
-[![Sanctum](https://img.shields.io/badge/Explore-Sanctum-8e44ad?style=for-the-badge&logo=github)](https://github.com/Sanctum-Network)
+[![Sanctum entdecken](https://img.shields.io/badge/✨_Sanctum_entdecken-8e44ad?style=for-the-badge&logo=github)](https://sanctum-community.de)
 
-<sub>Private projects · shared worlds · endless possibilities</sub>
+<sub>Private Projekte · gemeinsame Welten · grenzenlose Möglichkeiten</sub>
 
 </div>
